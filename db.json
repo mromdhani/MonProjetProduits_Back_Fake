@@ -1,0 +1,24 @@
+{
+  "produits": [
+    {
+      "id": "P100",
+      "libelle": "****** - Cafe",
+      "prixUnitaire": 100
+    },
+    {
+      "id": "P200",
+      "libelle": "Fake - The",
+      "prixUnitaire": 200.2
+    },
+    {
+      "id": "P300",
+      "libelle": "Fake - Jus",
+      "prixUnitaire": 300.5
+    },
+    {
+      "id": "P400",
+      "libelle": "Fake - Lait",
+      "prixUnitaire": 400
+    }
+  ]
+}
